@@ -29,7 +29,7 @@ const Navbar = () => {
 
     return (
         <div className='fixed top-0 left-0 z-50 w-full'>
-            <nav className='flex flex-col justify-between w-full bg-blue-800 fixed py-1 pb-3 px-6 sm:px-8 md:px-10 lg:flex-row lg:px-16 xl:px-24 2xl:px-64 lg:items-center dark:bg-gray-800'>
+            <nav className='flex flex-col justify-between w-full bg-blue-600 fixed pb-3 lg:pb-0 lg:h-12 px-6 sm:px-8 md:px-10 lg:flex-row lg:px-16 xl:px-24 2xl:px-64 lg:items-center dark:bg-gray-800'>
                 <section className='flex flex-col lg:flex-row'>
                     <div className='flex items-center justify-between w-full h-10 lg:w-auto'>
                         <div className='flex gap-2 font-bold text-2xl pr-9 dark:text-white'>
